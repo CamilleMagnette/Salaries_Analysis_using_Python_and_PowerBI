@@ -15,7 +15,8 @@ Python avec google collab, PowerBI
 
 1) Analyse de la base de données avec Python
 
-### [🌸🌸 **LIEN NOTEBOOK** 🌸🌸](https://colab.research.google.com/drive/1i50OEbWdqdzqZLFjhuGnv4v7A14-BKP8?usp=sharing)
+### [🌸🌸 **LIEN NOTEBOOK 1** 🌸🌸](https://colab.research.google.com/drive/1i50OEbWdqdzqZLFjhuGnv4v7A14-BKP8?usp=sharing)
+### [🌸🌸 **LIEN NOTEBOOK 2** 🌸🌸](https://colab.research.google.com/drive/1PzEuuL8gd8aUxncC3FIC3YgKgg182l2_?usp=sharing)
 
 2) Datavisualisations avec Power BI 
 
